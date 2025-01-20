@@ -1,7 +1,7 @@
 '''
 Author: Sara George
 Date: 1/18/2025
-Filename: practice.py
+Filename: Exercise2_3.py
 Description: WEB335 Exercise 2.3/Hands-On 1.1. First Python Program  
 '''
 

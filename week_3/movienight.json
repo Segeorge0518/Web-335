@@ -1,0 +1,44 @@
+{
+  "viewer":{
+    "_id": "customer137",
+    "firstName": "Molly",
+    "lastName": "Figs",
+    "Movie": [
+      {
+        "_id": "movie123",
+        "movieName": "Fire Walk With Me",
+        "genre": ["Horror", "Comedy"]         
+      },
+      {
+        "_id": "movie245",
+        "movieName": "Beetlejuice",
+        "genre": ["Horror", "Comedy"]
+      },
+      {
+        "_id": "movie367",
+        "movieName": "Ghost In The Shell",
+        "genre": ["Anime", "Cyberpunk"]
+      }      
+  ],
+  "Ratings": [
+      {
+        "_id": "rating36747",
+        "ratingScore": "9",
+        "viewerId": "customer137",
+        "movieId": "movie123"
+      },
+      {
+        "_id": "rating78567",
+        "ratingScore": "7",
+        "viewerId": "customer137",
+        "movieId": "movie245"
+      },
+      {
+        "_id": "rating86579",
+        "ratingScore": "8",
+        "viewerId": "customer137",
+        "movieId": "movie367"
+      }
+  ]
+  }
+}

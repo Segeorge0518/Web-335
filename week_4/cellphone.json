@@ -1,0 +1,25 @@
+{
+  "Users": [
+    {
+      "_id":"Customer 1",
+      "firstName":"Mel",
+      "lastName":"Brigg",
+      "Devices":[
+        {
+          "_id":"iphone1",
+          "deviceName":"Mel's Iphone",
+          "deviceType":"Phone",
+          "charger_id":"usbC_Charger"
+        }
+      ],
+      "Charger":[
+        {
+          "_id":"usbC_Charger",
+          "chargerType":"USB C",
+          "voltage":"5v"
+        }
+      ]
+    }
+  ]
+}
+

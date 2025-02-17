@@ -1,3 +1,10 @@
+"""
+Name: Sara George
+Date: 2/14/2025
+Filename: George_usersp1.py
+Description: Submission for Exercise 6.3 - Python with MongoDB
+"""
+
 from pymongo import MongoClient
 
 client = MongoClient("mongodb+srv://web335_user:s3cret@cluster0.lujih.mongodb.net/web335DBretryWrites=true&w=majority")

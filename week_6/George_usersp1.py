@@ -7,7 +7,7 @@ Description: Submission for Exercise 6.3 - Python with MongoDB
 
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://web335_user:s3cret@cluster0.lujih.mongodb.net/web335DBretryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://web335_user:s3cret@bellevueuniversity.t9q5e.mongodb.net/?retryWrites=true&w=majority&appName=BellevueUniversity")
 db = client['web335DB']
 collection = db['users']
 
